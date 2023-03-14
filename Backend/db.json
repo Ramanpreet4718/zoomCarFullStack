@@ -1,0 +1,1608 @@
+[
+  {
+    "name": "Ertiga 2016",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/13ac1f9054efd40b705ee8d11b603fcee4c9e6f8.png?1663874398",
+    "location": {
+      "lat": 30.65366,
+      "lng": 76.80878,
+      "distance": 0.7,
+      "text": "0.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "212/hr",
+      "payable_amount": "160/hr",
+      "price_per_hour": 160
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (2)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Nexon 2022",
+    "brand": "Tata",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/08304423b968f88cf094fe53c17aa28100f4b38c.png?1663876373",
+    "location": {
+      "lat": 30.64411,
+      "lng": 76.81095,
+      "distance": 1,
+      "text": "1.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "334/hr",
+      "payable_amount": "243/hr",
+      "price_per_hour": 243
+    },
+    "accessories": ["Automatic", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (1)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Creta 2017",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/bf87fc5666104402c03090d7c1a035a5bc21a065.png?1663872840",
+    "location": {
+      "lat": 30.64527,
+      "lng": 76.80212,
+      "distance": 1.6,
+      "text": "1.6 km away"
+    },
+    "pricing": {
+      "actual_amount": "255/hr",
+      "payable_amount": "192/hr",
+      "price_per_hour": 192
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.13 (6)",
+      "text1": 4.13
+    }
+  },
+  {
+    "name": "Thar 2022",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/0353daea96dd6789a10a6fb075d6146646bb2b58.png?1663873955",
+    "location": {
+      "lat": 30.65835,
+      "lng": 76.81771,
+      "distance": 1.6,
+      "text": "1.6 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "325/hr",
+      "price_per_hour": 325
+    },
+    "accessories": ["Manual", "Petrol", "4 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.60 (3)",
+      "text1": 3.6
+    }
+  },
+  {
+    "name": "I20 2015",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+    "location": {
+      "lat": 30.65631,
+      "lng": 76.79939,
+      "distance": 2,
+      "text": "2.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "282/hr",
+      "payable_amount": "214/hr",
+      "price_per_hour": 214
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.60 (9)",
+      "text1": 4.6
+    }
+  },
+  {
+    "name": "XUV300 W8 2022",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7cdcf0c9cea2a50af208d175007ec702b9ef75fd.png?1663874036",
+    "location": {
+      "lat": 30.63469,
+      "lng": 76.80498,
+      "distance": 2.7,
+      "text": "2.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "386/hr",
+      "payable_amount": "281/hr",
+      "price_per_hour": 281
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Triber 2020",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+    "location": {
+      "lat": 30.66113,
+      "lng": 76.82949,
+      "distance": 3.2,
+      "text": "3.2 km away"
+    },
+    "pricing": {
+      "actual_amount": "234/hr",
+      "payable_amount": "176/hr",
+      "price_per_hour": 176
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.41 (28)",
+      "text1": 4.41
+    }
+  },
+  {
+    "name": "Swift 2015",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+    "location": {
+      "lat": 30.66323,
+      "lng": 76.82858,
+      "distance": 3.3,
+      "text": "3.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "185/hr",
+      "payable_amount": "137/hr",
+      "price_per_hour": 137
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.90 (79)",
+      "text1": 4.9
+    }
+  },
+  {
+    "name": "Santro 2019",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/aac05ee37980c8d94e9657bc8ddea29312b0e6ae.jpg?1620384508",
+    "location": {
+      "lat": 30.66532,
+      "lng": 76.82723,
+      "distance": 3.4,
+      "text": "3.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "197/hr",
+      "payable_amount": "146/hr",
+      "price_per_hour": 146
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (3)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Hector Plus Sharp 2022",
+    "brand": "MG Motors",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/bb3a6e8f8236ec36ebd9ab47713dfb1e41352832.png?1663875097",
+    "location": {
+      "lat": 30.65055,
+      "lng": 76.83779,
+      "distance": 3.8,
+      "text": "3.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "559/hr",
+      "payable_amount": "420/hr",
+      "price_per_hour": 420
+    },
+    "accessories": ["Automatic", "Petrol", "6 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.48 (10)",
+      "text1": 4.48
+    }
+  },
+  {
+    "name": "I20 2022",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+    "location": {
+      "lat": 30.65055,
+      "lng": 76.83779,
+      "distance": 3.8,
+      "text": "3.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "180/hr",
+      "price_per_hour": 180
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.55 (25)",
+      "text1": 4.55
+    }
+  },
+  {
+    "name": "Grand i10 Nios 2021",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/036dd29b96a1232243eb30bee11dc18445c19468.png?1663872961",
+    "location": {
+      "lat": 30.65057,
+      "lng": 76.8379,
+      "distance": 3.8,
+      "text": "3.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "234/hr",
+      "payable_amount": "174/hr",
+      "price_per_hour": 174
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.90 (71)",
+      "text1": 4.9
+    }
+  },
+  {
+    "name": "Baleno 2022",
+    "brand": "Suzuki",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+    "location": {
+      "lat": 30.66896,
+      "lng": 76.82928,
+      "distance": 4.1,
+      "text": "4.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "221/hr",
+      "payable_amount": "164/hr",
+      "price_per_hour": 164
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.86 (6)",
+      "text1": 4.86
+    }
+  },
+  {
+    "name": "Triber 2020",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+    "location": {
+      "lat": 30.6671,
+      "lng": 76.83419,
+      "distance": 4.3,
+      "text": "4.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "209/hr",
+      "payable_amount": "158/hr",
+      "price_per_hour": 158
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.66 (41)",
+      "text1": 4.66
+    }
+  },
+  {
+    "name": "Go T 2019",
+    "brand": "Datsun",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/8f34da6f17de55e93e00a6420d78a8655863e82c.png?1663871957",
+    "location": {
+      "lat": 30.65192,
+      "lng": 76.84226,
+      "distance": 4.5,
+      "text": "4.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "191/hr",
+      "payable_amount": "142/hr",
+      "price_per_hour": 142
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.58 (39)",
+      "text1": 4.58
+    }
+  },
+  {
+    "name": "Punch 2022",
+    "brand": "Tata",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/dff6d4b203f7f4cfa8a86f09fabd86fde4638e41.png?1663876415",
+    "location": {
+      "lat": 30.6294,
+      "lng": 76.83559,
+      "distance": 4.9,
+      "text": "4.9 km away"
+    },
+    "pricing": {
+      "actual_amount": "185/hr",
+      "payable_amount": "137/hr",
+      "price_per_hour": 137
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.86 (38)",
+      "text1": 4.86
+    }
+  },
+  {
+    "name": "S-Presso 2019",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/14a6b980c55f1e96da7eb9c441d6f3bda0c5fa98.png?1663874567",
+    "location": {
+      "lat": 30.64854,
+      "lng": 76.84583,
+      "distance": 5,
+      "text": "5.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "194/hr",
+      "payable_amount": "144/hr",
+      "price_per_hour": 144
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.88 (37)",
+      "text1": 4.88
+    }
+  },
+  {
+    "name": "Dzire 2018",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f5b7492c627e865ea8e90b884c573f65c6d6bb0b.JPG?1666252046",
+    "location": {
+      "lat": 30.68505,
+      "lng": 76.83375,
+      "distance": 6.6,
+      "text": "6.6 km away"
+    },
+    "pricing": {
+      "actual_amount": "273/hr",
+      "payable_amount": "207/hr",
+      "price_per_hour": 207
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.91 (5)",
+      "text1": 4.91
+    }
+  },
+  {
+    "name": "Kwid 2018",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+    "location": {
+      "lat": 30.66634,
+      "lng": 76.85457,
+      "distance": 6.8,
+      "text": "6.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "167/hr",
+      "payable_amount": "124/hr",
+      "price_per_hour": 124
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.74 (44)",
+      "text1": 4.74
+    }
+  },
+  {
+    "name": "Urban Cruiser 2021",
+    "brand": "Toyota",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/df0d1d0a9cfee2f44409a3110b4ad90f5d7044a2.png?1663877022",
+    "location": {
+      "lat": 30.65398,
+      "lng": 76.85853,
+      "distance": 6.8,
+      "text": "6.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "291/hr",
+      "payable_amount": "212/hr",
+      "price_per_hour": 212
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (1)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Triber 2022",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+    "location": {
+      "lat": 30.69002,
+      "lng": 76.82183,
+      "distance": 6.8,
+      "text": "6.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "270/hr",
+      "payable_amount": "203/hr",
+      "price_per_hour": 203
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.54 (10)",
+      "text1": 4.54
+    }
+  },
+  {
+    "name": "S-Presso 2021",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5ef36d2a7a54280f15d4ef1d5af8a3c452838f08.png?1663874575",
+    "location": {
+      "lat": 30.6868,
+      "lng": 76.83624,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "191/hr",
+      "payable_amount": "141/hr",
+      "price_per_hour": 141
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.64 (9)",
+      "text1": 4.64
+    }
+  },
+  {
+    "name": "TUV 300 2016",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f39bcb1945a5efd3a2462a14dbf39d8d06ceb0aa.png?1663873982",
+    "location": {
+      "lat": 30.69024,
+      "lng": 76.7946,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "264/hr",
+      "payable_amount": "198/hr",
+      "price_per_hour": 198
+    },
+    "accessories": ["Manual", "Diesel", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.44 (41)",
+      "text1": 4.44
+    }
+  },
+  {
+    "name": "Ecosport 2018",
+    "brand": "Ford",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/09676d682ed13c858272d5890a4a27c618d9996a.png?1663872232",
+    "location": {
+      "lat": 30.69024,
+      "lng": 76.7946,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "450/hr",
+      "price_per_hour": 450
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.46 (24)",
+      "text1": 4.46
+    }
+  },
+  {
+    "name": "I20 Asta CRDI 2015",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/8175e80f7d4d419a0b89a5225bf396a11be28b51.png?1663873084",
+    "location": {
+      "lat": 30.69024,
+      "lng": 76.7946,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "258/hr",
+      "payable_amount": "191/hr",
+      "price_per_hour": 191
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.84 (45)",
+      "text1": 4.84
+    }
+  },
+  {
+    "name": "Eon 2015",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/67b69e4cf6997df22be898d9a61a5c37e1b753cb.png?1663872916",
+    "location": {
+      "lat": 30.69042,
+      "lng": 76.79511,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "400/hr",
+      "price_per_hour": 400
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.90 (61)",
+      "text1": 4.9
+    }
+  },
+  {
+    "name": "Alto 2018",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f5c5ae8e660cfadcd93e9d4fcc087ab25e325bf9.png?1663874155",
+    "location": {
+      "lat": 30.69052,
+      "lng": 76.79509,
+      "distance": 7.1,
+      "text": "7.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "145/hr",
+      "payable_amount": "108/hr",
+      "price_per_hour": 108
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.75 (10)",
+      "text1": 3.75
+    }
+  },
+  {
+    "name": "Innova 2016",
+    "brand": "Toyota",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f26443def4a687fa6996497880174570e630d503.png?1663876925",
+    "location": {
+      "lat": 30.65703,
+      "lng": 76.86331,
+      "distance": 7.6,
+      "text": "7.6 km away"
+    },
+    "pricing": {
+      "actual_amount": "431/hr",
+      "payable_amount": "324/hr",
+      "price_per_hour": 324
+    },
+    "accessories": ["Manual", "Diesel", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.99 (6)",
+      "text1": 3.99
+    }
+  },
+  {
+    "name": "Ciaz Hybrid 2017",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/4eb22200e6a92ad6cdfe45ae120f113d22cea7b6.png?1663874310",
+    "location": {
+      "lat": 30.69424,
+      "lng": 76.82787,
+      "distance": 7.7,
+      "text": "7.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "258/hr",
+      "payable_amount": "188/hr",
+      "price_per_hour": 188
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.91 (51)",
+      "text1": 4.91
+    }
+  },
+  {
+    "name": "Baleno 2022",
+    "brand": "Suzuki",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+    "location": {
+      "lat": 30.69438,
+      "lng": 76.82789,
+      "distance": 7.7,
+      "text": "7.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "264/hr",
+      "payable_amount": "195/hr",
+      "price_per_hour": 195
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.78 (34)",
+      "text1": 4.78
+    }
+  },
+  {
+    "name": "Ertiga Hybrid 2022",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/71d6f66d3c00d74abdf1b3b28811d0fa8b9ff1fc.png?1663874408",
+    "location": {
+      "lat": 30.69468,
+      "lng": 76.82844,
+      "distance": 7.8,
+      "text": "7.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "334/hr",
+      "payable_amount": "251/hr",
+      "price_per_hour": 251
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.77 (14)",
+      "text1": 4.77
+    }
+  },
+  {
+    "name": "CRV 2015",
+    "brand": "Honda",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/b4b0dd59fc4ec6cba00a17d112511c57d42881b5.png?1663872569",
+    "location": {
+      "lat": 30.67281,
+      "lng": 76.86147,
+      "distance": 8.1,
+      "text": "8.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "526/hr",
+      "payable_amount": "395/hr",
+      "price_per_hour": 395
+    },
+    "accessories": ["Automatic", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.76 (28)",
+      "text1": 4.76
+    }
+  },
+  {
+    "name": "Ertiga Hybrid 2022",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/71d6f66d3c00d74abdf1b3b28811d0fa8b9ff1fc.png?1663874408",
+    "location": {
+      "lat": 30.69645,
+      "lng": 76.82993,
+      "distance": 8.2,
+      "text": "8.2 km away"
+    },
+    "pricing": {
+      "actual_amount": "310/hr",
+      "payable_amount": "233/hr",
+      "price_per_hour": 233
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.95 (37)",
+      "text1": 4.95
+    }
+  },
+  {
+    "name": "Alto K10 VXI 2017",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/c188c8173ec32339e90217aa345492b093c6a8d5.png?1663874163",
+    "location": {
+      "lat": 30.69796,
+      "lng": 76.82928,
+      "distance": 8.4,
+      "text": "8.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "158/hr",
+      "payable_amount": "117/hr",
+      "price_per_hour": 117
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.50 (36)",
+      "text1": 4.5
+    }
+  },
+  {
+    "name": "Alto K10 VXI 2022",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/c188c8173ec32339e90217aa345492b093c6a8d5.png?1663874163",
+    "location": {
+      "lat": 30.70179,
+      "lng": 76.82036,
+      "distance": 8.7,
+      "text": "8.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "176/hr",
+      "payable_amount": "130/hr",
+      "price_per_hour": 130
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Glanza 2022",
+    "brand": "Toyota",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/84669243b5b9b47e7a5956951bb84a9237622ee2.png?1663876843",
+    "location": {
+      "lat": 30.70183,
+      "lng": 76.82026,
+      "distance": 8.7,
+      "text": "8.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "307/hr",
+      "payable_amount": "226/hr",
+      "price_per_hour": 226
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.08 (7)",
+      "text1": 4.08
+    }
+  },
+  {
+    "name": "I20 2019",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5caf3fc13f24709c13dbae1744208419cbe01ab8.png?1663873059",
+    "location": {
+      "lat": 30.60806,
+      "lng": 76.8483,
+      "distance": 8.8,
+      "text": "8.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "225/hr",
+      "payable_amount": "166/hr",
+      "price_per_hour": 166
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.93 (29)",
+      "text1": 4.93
+    }
+  },
+  {
+    "name": "Suzuki XL6 Petrol 2021",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/cfe33545035eaad871fe2b8271fceebe1fae21e4.png?1663874686",
+    "location": {
+      "lat": 30.68838,
+      "lng": 76.76266,
+      "distance": 9.4,
+      "text": "9.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "361/hr",
+      "payable_amount": "272/hr",
+      "price_per_hour": 272
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (3)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Swift 2023",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+    "location": {
+      "lat": 30.70278,
+      "lng": 76.83598,
+      "distance": 9.5,
+      "text": "9.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "180/hr",
+      "price_per_hour": 180
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (3)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Xcent 2020",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a9da5e1244b4c6f13a062514fdd4d0f42d4570f6.png?1663873287",
+    "location": {
+      "lat": 30.70273,
+      "lng": 76.8363,
+      "distance": 9.5,
+      "text": "9.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "188/hr",
+      "payable_amount": "138/hr",
+      "price_per_hour": 138
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.80 (59)",
+      "text1": 4.8
+    }
+  },
+  {
+    "name": "Ciaz 2020",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/4591ed5749ed95845712e7f86a42f2575b5cc6a3.png?1663874318",
+    "location": {
+      "lat": 30.70413,
+      "lng": 76.837,
+      "distance": 9.7,
+      "text": "9.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "246/hr",
+      "payable_amount": "179/hr",
+      "price_per_hour": 179
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.91 (5)",
+      "text1": 3.91
+    }
+  },
+  {
+    "name": "Punch 2022",
+    "brand": "Tata",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/dff6d4b203f7f4cfa8a86f09fabd86fde4638e41.png?1663876415",
+    "location": {
+      "lat": 30.70834,
+      "lng": 76.79317,
+      "distance": 10,
+      "text": "10.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "237/hr",
+      "payable_amount": "175/hr",
+      "price_per_hour": 175
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.87 (5)",
+      "text1": 3.87
+    }
+  },
+  {
+    "name": "Dzire (Petrol) 2022",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+    "location": {
+      "lat": 30.71098,
+      "lng": 76.7959,
+      "distance": 10.4,
+      "text": "10.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "273/hr",
+      "payable_amount": "199/hr",
+      "price_per_hour": 199
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.84 (23)",
+      "text1": 4.84
+    }
+  },
+  {
+    "name": "Redi-GO 2019",
+    "brand": "Datsun",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/4ce151fca9d2de514fcec42977b2689e10bdff7d.png?1663871983",
+    "location": {
+      "lat": 30.71345,
+      "lng": 76.83388,
+      "distance": 11,
+      "text": "11.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "185/hr",
+      "payable_amount": "137/hr",
+      "price_per_hour": 137
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.92 (23)",
+      "text1": 4.92
+    }
+  },
+  {
+    "name": "Amaze 1.2V 2022",
+    "brand": "Honda",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/42f650b8dee1baef441fef362e4a5efbd5b519a3.png?1663872410",
+    "location": {
+      "lat": 30.65251,
+      "lng": 76.73176,
+      "distance": 11.4,
+      "text": "11.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "261/hr",
+      "payable_amount": "191/hr",
+      "price_per_hour": 191
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.87 (42)",
+      "text1": 4.87
+    }
+  },
+  {
+    "name": "ALTROZ 2021",
+    "brand": "Tata",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/d28f0efaadaef7e08284eddb0f05021229806c2f.png?1663876251",
+    "location": {
+      "lat": 30.71636,
+      "lng": 76.84061,
+      "distance": 11.8,
+      "text": "11.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "279/hr",
+      "payable_amount": "206/hr",
+      "price_per_hour": 206
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.72 (48)",
+      "text1": 4.72
+    }
+  },
+  {
+    "name": "KUV 100 2017",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/77cee0728de888bf87982d554722ba84fb1e0391.png?1663873837",
+    "location": {
+      "lat": 30.69388,
+      "lng": 76.73974,
+      "distance": 12.6,
+      "text": "12.6 km away"
+    },
+    "pricing": {
+      "actual_amount": "185/hr",
+      "payable_amount": "137/hr",
+      "price_per_hour": 137
+    },
+    "accessories": ["Manual", "Diesel", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.52 (71)",
+      "text1": 4.52
+    }
+  },
+  {
+    "name": "Xcent 2016",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a9da5e1244b4c6f13a062514fdd4d0f42d4570f6.png?1663873287",
+    "location": {
+      "lat": 30.67855,
+      "lng": 76.72894,
+      "distance": 12.7,
+      "text": "12.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "218/hr",
+      "payable_amount": "160/hr",
+      "price_per_hour": 160
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5.00 (1)",
+      "text1": 5
+    }
+  },
+  {
+    "name": "XUV500 2017",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/9fbe42c6dec2f9b14e99b47f455476d3a316062f.png?1663874087",
+    "location": {
+      "lat": 30.71021,
+      "lng": 76.75156,
+      "distance": 13.2,
+      "text": "13.2 km away"
+    },
+    "pricing": {
+      "actual_amount": "401/hr",
+      "payable_amount": "302/hr",
+      "price_per_hour": 302
+    },
+    "accessories": ["Manual", "Diesel", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.45 (5)",
+      "text1": 3.45
+    }
+  },
+  {
+    "name": "Eon 2018",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/67b69e4cf6997df22be898d9a61a5c37e1b753cb.png?1663872916",
+    "location": {
+      "lat": 30.69105,
+      "lng": 76.73225,
+      "distance": 13.2,
+      "text": "13.2 km away"
+    },
+    "pricing": {
+      "actual_amount": "182/hr",
+      "payable_amount": "135/hr",
+      "price_per_hour": 135
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "2.00 (1)",
+      "text1": 2
+    }
+  },
+  {
+    "name": "I20 2019",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+    "location": {
+      "lat": 30.72581,
+      "lng": 76.78237,
+      "distance": 13.3,
+      "text": "13.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "261/hr",
+      "payable_amount": "193/hr",
+      "price_per_hour": 193
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.58 (28)",
+      "text1": 4.58
+    }
+  },
+  {
+    "name": "Kwid 2021",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+    "location": {
+      "lat": 30.72443,
+      "lng": 76.84552,
+      "distance": 13.3,
+      "text": "13.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "191/hr",
+      "payable_amount": "141/hr",
+      "price_per_hour": 141
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.30 (13)",
+      "text1": 4.3
+    }
+  },
+  {
+    "name": "Ignis 2020",
+    "brand": "Suzuki",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/13284dce101cd7020c977103e2cb5f33bee3b0e9.png?1663874479",
+    "location": {
+      "lat": 30.72478,
+      "lng": 76.84518,
+      "distance": 13.4,
+      "text": "13.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "212/hr",
+      "payable_amount": "157/hr",
+      "price_per_hour": 157
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5",
+      "text1": 5
+    }
+  },
+  {
+    "name": "Baleno 2022",
+    "brand": "Suzuki",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+    "location": {
+      "lat": 30.72501,
+      "lng": 76.84575,
+      "distance": 13.4,
+      "text": "13.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "291/hr",
+      "payable_amount": "215/hr",
+      "price_per_hour": 215
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "3.57 (2)",
+      "text1": 3.57
+    }
+  },
+  {
+    "name": "Swift ZXI+ 2018",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/125027ac7c83e1dc44ca07a1ea9c9cc5f1397535.png?1663874602",
+    "location": {
+      "lat": 30.72257,
+      "lng": 76.76863,
+      "distance": 13.5,
+      "text": "13.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "252/hr",
+      "payable_amount": "186/hr",
+      "price_per_hour": 186
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "2.91 (10)",
+      "text1": 2.91
+    }
+  },
+  {
+    "name": "Grand i10 Nios 2022",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/036dd29b96a1232243eb30bee11dc18445c19468.png?1663872961",
+    "location": {
+      "lat": 30.67308,
+      "lng": 76.71903,
+      "distance": 13.8,
+      "text": "13.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "276/hr",
+      "payable_amount": "204/hr",
+      "price_per_hour": 204
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.76 (3)",
+      "text1": 4.76
+    }
+  },
+  {
+    "name": "Ignis 2021",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/49e306b0384497ca15414c0f4e13b58ab02a962f.png?1663874453",
+    "location": {
+      "lat": 30.69291,
+      "lng": 76.7257,
+      "distance": 14.2,
+      "text": "14.2 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "150/hr",
+      "price_per_hour": 150
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.88 (26)",
+      "text1": 4.88
+    }
+  },
+  {
+    "name": "Amaze 1.2V 2022",
+    "brand": "Honda",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/42f650b8dee1baef441fef362e4a5efbd5b519a3.png?1663872410",
+    "location": {
+      "lat": 30.7298,
+      "lng": 76.77477,
+      "distance": 14.3,
+      "text": "14.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "261/hr",
+      "payable_amount": "190/hr",
+      "price_per_hour": 190
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.88 (32)",
+      "text1": 4.88
+    }
+  },
+  {
+    "name": "Tiago 2021",
+    "brand": "Tata",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/1e16802bac3c6ee639b20c4248acdecbe4819b18.png?1663876495",
+    "location": {
+      "lat": 30.73465,
+      "lng": 76.78049,
+      "distance": 14.8,
+      "text": "14.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "206/hr",
+      "payable_amount": "153/hr",
+      "price_per_hour": 153
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.70 (24)",
+      "text1": 4.7
+    }
+  },
+  {
+    "name": "Amaze 2015",
+    "brand": "Honda",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/038cccdbf5e006c84ade0277edc7d3927f307568.png?1663872447",
+    "location": {
+      "lat": 30.7228,
+      "lng": 76.7433,
+      "distance": 15.5,
+      "text": "15.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "221/hr",
+      "payable_amount": "162/hr",
+      "price_per_hour": 162
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.27 (20)",
+      "text1": 4.27
+    }
+  },
+  {
+    "name": "Aura 2022",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/333bab35eba4832b590e5dd5cddd34c18ff1c001.png?1663872779",
+    "location": {
+      "lat": 30.73519,
+      "lng": 76.7493,
+      "distance": 16.7,
+      "text": "16.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "270/hr",
+      "payable_amount": "197/hr",
+      "price_per_hour": 197
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.30 (43)",
+      "text1": 4.3
+    }
+  },
+  {
+    "name": "Grand i10 Nios 2021",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/424bf4dd71b895378528f4c0f1d6faae601037d6.png?1663872943",
+    "location": {
+      "lat": 30.73519,
+      "lng": 76.7493,
+      "distance": 16.7,
+      "text": "16.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "231/hr",
+      "payable_amount": "170/hr",
+      "price_per_hour": 170
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.81 (81)",
+      "text1": 4.81
+    }
+  },
+  {
+    "name": "Kwid AT (Petrol) 2017",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/181be68754b2cda40fc6492b99b9a4cd09e0fb8a.png?1663875961",
+    "location": {
+      "lat": 30.73932,
+      "lng": 76.74623,
+      "distance": 17.5,
+      "text": "17.5 km away"
+    },
+    "pricing": {
+      "actual_amount": "179/hr",
+      "payable_amount": "132/hr",
+      "price_per_hour": 132
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "5",
+      "text1": 5
+    }
+  },
+  {
+    "name": "TUV 300 2016",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f39bcb1945a5efd3a2462a14dbf39d8d06ceb0aa.png?1663873982",
+    "location": {
+      "lat": 30.74127,
+      "lng": 76.73835,
+      "distance": 18.4,
+      "text": "18.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "297/hr",
+      "payable_amount": "224/hr",
+      "price_per_hour": 224
+    },
+    "accessories": ["Manual", "Diesel", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.84 (20)",
+      "text1": 4.84
+    }
+  },
+  {
+    "name": "Brezza 2021",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/026898904f8ab771a8324b7a0ff07826d9823803.JPG?1666258021",
+    "location": {
+      "lat": 30.7313,
+      "lng": 76.71848,
+      "distance": 19,
+      "text": "19.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "304/hr",
+      "payable_amount": "221/hr",
+      "price_per_hour": 221
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.76 (17)",
+      "text1": 4.76
+    }
+  },
+  {
+    "name": "Grand i10 2022",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f9a7281d921fc6abdb3b61a2f61d7c32bd9ac748.png?1663872996",
+    "location": {
+      "lat": 30.6949,
+      "lng": 76.67597,
+      "distance": 20.8,
+      "text": "20.8 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "206/hr",
+      "price_per_hour": 206
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.21 (16)",
+      "text1": 4.21
+    }
+  },
+  {
+    "name": "XUV 300 2019",
+    "brand": "Mahindra",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a433e9bf03d55d2e3aca93062108d346279ff7af.png?1663874138",
+    "location": {
+      "lat": 30.77572,
+      "lng": 76.79948,
+      "distance": 21,
+      "text": "21.0 km away"
+    },
+    "pricing": {
+      "actual_amount": "301/hr",
+      "payable_amount": "219/hr",
+      "price_per_hour": 219
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.92 (83)",
+      "text1": 4.92
+    }
+  },
+  {
+    "name": "Swift 2020",
+    "brand": "Maruti",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+    "location": {
+      "lat": 30.75972,
+      "lng": 76.72065,
+      "distance": 22.4,
+      "text": "22.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "299/hr",
+      "price_per_hour": 299
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.85 (50)",
+      "text1": 4.85
+    }
+  },
+  {
+    "name": "Redi-GO 2019",
+    "brand": "Datsun",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/4ce151fca9d2de514fcec42977b2689e10bdff7d.png?1663871983",
+    "location": {
+      "lat": 30.75988,
+      "lng": 76.72069,
+      "distance": 22.4,
+      "text": "22.4 km away"
+    },
+    "pricing": {
+      "actual_amount": "161/hr",
+      "payable_amount": "119/hr",
+      "price_per_hour": 119
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.72 (66)",
+      "text1": 4.72
+    }
+  },
+  {
+    "name": "Vento 2020",
+    "brand": "Volkswagen",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/27d3ce5e0d7f2de062f42f45cb99c6d4e19378c8.png?1663877204",
+    "location": {
+      "lat": 30.78897,
+      "lng": 76.74402,
+      "distance": 25.1,
+      "text": "25.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "325/hr",
+      "payable_amount": "236/hr",
+      "price_per_hour": 236
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.93 (24)",
+      "text1": 4.93
+    }
+  },
+  {
+    "name": "Seltos 2022",
+    "brand": "KIA",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/14a199efc141a4279be3d232c528cdd4d79acfdc.png?1663873624",
+    "location": {
+      "lat": 30.78924,
+      "lng": 76.74396,
+      "distance": 25.1,
+      "text": "25.1 km away"
+    },
+    "pricing": {
+      "actual_amount": "",
+      "payable_amount": "352/hr",
+      "price_per_hour": 352
+    },
+    "accessories": ["Automatic", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.01 (5)",
+      "text1": 4.01
+    }
+  },
+  {
+    "name": "Venue 2020",
+    "brand": "Hyundai",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7da6a84a3997f5d39a80653d488dbf9412f5dd3b.png?1663873214",
+    "location": {
+      "lat": 30.78953,
+      "lng": 76.74228,
+      "distance": 25.3,
+      "text": "25.3 km away"
+    },
+    "pricing": {
+      "actual_amount": "221/hr",
+      "payable_amount": "161/hr",
+      "price_per_hour": 161
+    },
+    "accessories": ["Manual", "Petrol", "5 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.66 (39)",
+      "text1": 4.66
+    }
+  },
+  {
+    "name": "Triber 2022",
+    "brand": "Renault",
+    "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+    "location": {
+      "lat": 30.76229,
+      "lng": 76.81704,
+      "distance": 18.7,
+      "text": "18.7 km away"
+    },
+    "pricing": {
+      "actual_amount": "261/hr",
+      "payable_amount": "196/hr",
+      "price_per_hour": 196
+    },
+    "accessories": ["Manual", "Petrol", "7 Seats"],
+    "rating": {
+      "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+      "text": "4.18 (10)",
+      "text1": 4.18
+    }
+  }
+]
