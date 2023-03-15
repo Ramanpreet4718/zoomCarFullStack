@@ -1,0 +1,10 @@
+a {
+    color: black;
+}
+
+
+@media screen and (min-width:320px) {
+    .btm-nav-parent {
+        padding: 5%;
+    }
+}

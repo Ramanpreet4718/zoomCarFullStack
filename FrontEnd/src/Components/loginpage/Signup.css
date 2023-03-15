@@ -1,0 +1,134 @@
+.option-mobile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 1px solid #e0e0e0;
+  width: 50%;
+  margin: 5px 50px 0px 50px;
+  padding: 20px 10px 20px 10px;
+}
+
+.option-mobile img {
+  width: 30px;
+}
+
+.heading-login {
+  width: 85%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.option-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.markToinput {
+  margin-left: 10px;
+  border-left: 1px solid #e0e0e0;
+  padding-left: 5px;
+  color: #787e84;
+}
+
+.option-email {
+  margin: 25px 25px 25px -175px;
+  color: #23ab46;
+  font-weight: 500;
+}
+
+.backArrow {
+  display: flex;
+  padding: 10px 300px 10px 10px;
+  margin: 15px 0px 20px 0px;
+}
+
+.Enter-phone-num {
+  font-size: 17px;
+  width: 40%;
+  font-weight: bold;
+}
+
+.country-selector {
+  display: flex;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #10a310;
+  width: 15%;
+  margin: 25px 25px 25px 10px;
+  padding: 12px 5px 12px 5px;
+}
+
+.mobile-number-input {
+  display: flex;
+
+  align-items: center;
+  margin-bottom: 60vh;
+  margin-top: 25px;
+}
+
+.input-box-tel {
+  display: flex;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  width: 70%;
+  padding: 8px 0px 8px 0px;
+}
+
+.submit-login-with-mobile {
+  margin: 10px;
+}
+
+.email-input {
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  width: 100%;
+  padding: 8px 0px 8px 0px;
+  margin-bottom: 100%;
+  margin-top: 25px;
+}
+
+.otp-input {
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  width: 100%;
+  padding: 8px 0px 8px 0px;
+  margin-bottom: 100%;
+  margin-top: 25px;
+}
+
+.input-box-email {
+  display: flex;
+  border-radius: 3px;
+
+  width: 70%;
+}
+
+.Enter-email-id {
+  font-size: 17px;
+  width: 35%;
+  font-weight: bold;
+}
+
+.imageContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.heading-login {
+  text-align: center;
+}
+
+.UserName {
+  margin-top: 25px;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 10px 71px 20px 100px;
+  margin-left: 10px;
+}
+
+.UserName input {
+  border: none;
+  outline: none;
+}

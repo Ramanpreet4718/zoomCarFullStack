@@ -1,0 +1,21 @@
+.marketplace {
+    background: url('https://zoomcar-assets.zoomcar.com/images/original/97c77ce8da5affded5e3c4bde712044a90728781.png?1672044755');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4%;
+}
+
+.marketplace_block {
+    background-color: #0000006e;
+    width: 78%;
+    margin: auto;
+    padding: 20px;
+}
+
+.marketplace_block h2 {
+    padding: 10px;
+}
+
+.marketplace_block h4 {
+    padding: 10px;
+}

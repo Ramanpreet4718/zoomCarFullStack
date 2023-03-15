@@ -1,0 +1,999 @@
+[
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 186,
+            "car_id": -30431,
+            "name": "I20",
+            "brand": "Hyundai",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+            "location": {
+                "id": 13477,
+                "location_id": 84110,
+                "lat": 18.44692,
+                "lng": 73.89009,
+                "distance": 0.8840953597434271,
+                "text": "1.5 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹186/hr",
+                "payable_amount": "₹113/hr",
+                "revenue": 14464,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹14,464 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹113 x 128 hours",
+                                "value": "₹14,464",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 113
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/110342/HostCarImage/host_car_image_1103428190d4fc-b0c9-4228-9845-01ebcf7b2953.jpg20230205-34-4ik09u",
+                "https://zoomcar-assets.zoomcar.com/110341/HostCarImage/host_car_image_110341b8a7b3c7-848c-400b-9605-068fc39ad31f.jpg20230208-26-qqfg2t",
+                "https://zoomcar-assets.zoomcar.com/115270/HostCarImage/host_car_image_115270ff49f7e4-c7eb-4231-a31f-92c29b1798ae.jpg20230208-65-cbshj0",
+                "https://zoomcar-assets.zoomcar.com/110345/HostCarImage/host_car_image_11034588b7a6f9-27cf-4ec2-8b32-dcbf281d1103.jpg20230205-34-qyryv2",
+                "https://zoomcar-assets.zoomcar.com/110344/HostCarImage/host_car_image_11034437e5d7f2-ebe3-459e-a84d-f77453fd0384.jpg20230208-75-1kn12wx",
+                "https://zoomcar-assets.zoomcar.com/110348/HostCarImage/host_car_image_1103483a222347-37a7-4c2f-b202-555aab8fffc1.jpg20230208-54-uovj9s",
+                "https://zoomcar-assets.zoomcar.com/110346/HostCarImage/host_car_image_11034634db6c87-af44-4c66-bb76-33827859fc52.jpg20230208-43-1r3nvfv"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 ",
+                "review_count": -1
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 1
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 132,
+            "car_id": -23287,
+            "name": "Swift",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "location": {
+                "id": 13477,
+                "location_id": 76564,
+                "lat": 18.46168,
+                "lng": 73.88891,
+                "distance": 0.9221248858990483,
+                "text": "1.6 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹153/hr",
+                "payable_amount": "₹93/hr",
+                "revenue": 11904,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹11,904 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹93 x 128 hours",
+                                "value": "₹11,904",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 93
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 (5) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 (5) ",
+                "review_count": -1
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": false
+        },
+        "banner": false,
+        "id": 2
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 137,
+            "car_id": 15919,
+            "name": "Baleno",
+            "brand": "Suzuki",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "location": {
+                "id": 553,
+                "location_id": 25856,
+                "lat": 18.45564,
+                "lng": 73.87652,
+                "distance": 1.0193192048799113,
+                "text": "1.7 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹161/hr",
+                "payable_amount": "₹98/hr",
+                "revenue": 12544,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹12,544 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹98 x 128 hours",
+                                "value": "₹12,544",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 98
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.85 (73) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.85 (73) ",
+                "review_count": 5
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": false
+        },
+        "banner": false,
+        "id": 3
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 176,
+            "car_id": -6354,
+            "name": "Triber",
+            "brand": "Renault",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "location": {
+                "id": 13477,
+                "location_id": 53842,
+                "lat": 18.44312,
+                "lng": 73.88325,
+                "distance": 1.2289568805928537,
+                "text": "2.1 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹169/hr",
+                "payable_amount": "₹101/hr",
+                "revenue": 12928,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹12,928 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹101 x 128 hours",
+                                "value": "₹12,928",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 101
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "7 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (42) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/51468/HostCarImage/host_car_image_514687943f755-142c-4559-b96c-55897930b7ab.jpg20230116-30-37yk9y",
+                "https://zoomcar-assets.zoomcar.com/51470/HostCarImage/host_car_image_514707b9fafdc-4c83-4062-b29b-67d77211480f.jpg20230116-47-naqkwb",
+                "https://zoomcar-assets.zoomcar.com/51471/HostCarImage/host_car_image_51471e0795aae-da77-4f9c-9378-c9cb9757eacb.jpg20230116-75-xp795k",
+                "https://zoomcar-assets.zoomcar.com/51477/HostCarImage/host_car_image_514773f7a60c4-59ce-477b-a2e3-25107a8506ba.jpg20230116-63-cfvydl",
+                "https://zoomcar-assets.zoomcar.com/51475/HostCarImage/host_car_image_5147541fe3ec3-c8e1-45b1-a397-b03f62caa19f.jpg20230116-48-svkqy2",
+                "https://zoomcar-assets.zoomcar.com/51474/HostCarImage/host_car_image_51474b8a1cfa9-91c7-443c-b5a1-653b04d64971.jpg20230116-63-1oboq55",
+                "https://zoomcar-assets.zoomcar.com/51472/HostCarImage/host_car_image_5147233171025-0051-4a29-8441-f7b7fe0dc776.jpg20230116-27-1ajtpir",
+                "https://zoomcar-assets.zoomcar.com/51476/HostCarImage/host_car_image_51476d7f3e556-e557-479c-8fa5-fa7c014aca9f.jpg20230116-54-155g9d2",
+                "https://zoomcar-assets.zoomcar.com/51473/HostCarImage/host_car_image_51473d8219996-aa15-4b64-96f1-4a272f0d3b2e.jpg20230116-40-ttu1p1",
+                "https://zoomcar-assets.zoomcar.com/51728/HostCarImage/host_car_image_517287dfee28e-58be-4625-8de7-b992f1fd6265.jpg20230116-63-su8u4d",
+                "https://zoomcar-assets.zoomcar.com/51725/HostCarImage/host_car_image_51725e6c12091-1d6f-4e39-a50f-f0a088303af3.jpg20230116-54-1hce4n9",
+                "https://zoomcar-assets.zoomcar.com/51727/HostCarImage/host_car_image_5172788a20d5b-b45b-4fb3-8182-5da3ff6de907.jpg20230116-27-wrq85f"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (42) ",
+                "review_count": 4
+            },
+            "tag_run_id": 4,
+            "car_tags": [
+                {
+                    "id": 6,
+                    "colour": "YELLOW_SIX",
+                    "name": "New Car",
+                    "description": "New cars added to the zoomcar universe"
+                }
+            ],
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 4
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 147,
+            "car_id": 17728,
+            "name": "Wagon R",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+            "location": {
+                "id": 44,
+                "location_id": 27881,
+                "lat": 18.4652,
+                "lng": 73.88393,
+                "distance": 1.2797125820746658,
+                "text": "2.2 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹147/hr",
+                "payable_amount": "₹90/hr",
+                "revenue": 11520,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹11,520 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹90 x 128 hours",
+                                "value": "₹11,520",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 90
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.86 (42) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/4183/HostCarImage/open-uri20230130-15615-yngyus85a0f306-dc8d-4b43-ab83-ea3d7f2b7f3d",
+                "https://zoomcar-assets.zoomcar.com/4184/HostCarImage/open-uri20230130-15615-13lfjh522698083-8d74-4f26-96c5-3fd88d72bc88",
+                "https://zoomcar-assets.zoomcar.com/4185/HostCarImage/open-uri20230130-15615-1j6sg116a33376d-9c91-4112-966e-2cca1d9d8562",
+                "https://zoomcar-assets.zoomcar.com/4186/HostCarImage/open-uri20230130-15615-21g45p78f1baa3-613a-4607-81bc-b3f50696100a",
+                "https://zoomcar-assets.zoomcar.com/4187/HostCarImage/open-uri20230130-15615-om3b6b319667a0-67ea-4887-9cf2-0916a00a2670",
+                "https://zoomcar-assets.zoomcar.com/4188/HostCarImage/open-uri20230130-15615-anqqp09302ac08-be70-482c-abde-f7b57c59ecdf",
+                "https://zoomcar-assets.zoomcar.com/4189/HostCarImage/open-uri20230130-15615-140rlyi99b6f24c-3c59-4bd9-a26c-a38020f744df",
+                "https://zoomcar-assets.zoomcar.com/4190/HostCarImage/open-uri20230130-15615-f58ktq4cf406a3-5456-4ba6-aa15-ac5fa045776d",
+                "https://zoomcar-assets.zoomcar.com/4191/HostCarImage/open-uri20230130-15615-91b5sm44ba66c6-01e8-49e8-89c8-2cacbdda1ab1",
+                "https://zoomcar-assets.zoomcar.com/102365/HostCarImage/host_car_image_10236521991fc9-9736-4c7a-a73c-09b3673b7b65.jpg20230202-48-juhfbs"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.86 (42) ",
+                "review_count": 4
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 5
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 691,
+            "car_id": -22241,
+            "name": "Ignis",
+            "brand": "Suzuki",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/13284dce101cd7020c977103e2cb5f33bee3b0e9.png?1663874479",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/13284dce101cd7020c977103e2cb5f33bee3b0e9.png?1663874479",
+            "location": {
+                "id": 44,
+                "location_id": 27881,
+                "lat": 18.4652,
+                "lng": 73.88393,
+                "distance": 1.2797125820746658,
+                "text": "2.2 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹132/hr",
+                "payable_amount": "₹80/hr",
+                "revenue": 10240,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹10,240 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹80 x 128 hours",
+                                "value": "₹10,240",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 80
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 (8) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/44088/HostCarImage/host_car_image_440888cb9860a-9ba8-4f8c-9b23-59602fa30aaf.jpg20230115-71-1xick8v",
+                "https://zoomcar-assets.zoomcar.com/44091/HostCarImage/host_car_image_44091b8983cce-e70f-45b0-9554-272f66c3e680.jpg20230115-24-qgnmtu",
+                "https://zoomcar-assets.zoomcar.com/44093/HostCarImage/host_car_image_4409360edbfb4-8eb3-41e0-b206-f061aeb1d5d6.jpg20230115-45-1ve2ony",
+                "https://zoomcar-assets.zoomcar.com/44095/HostCarImage/host_car_image_440951d32ca56-d82b-4c81-94d2-dfbaa62d052d.jpg20230115-56-cff0c8",
+                "https://zoomcar-assets.zoomcar.com/48789/HostCarImage/host_car_image_48789e6573e57-0e40-4629-b1d6-208a85212428.jpg20230115-24-10am7ci",
+                "https://zoomcar-assets.zoomcar.com/54924/HostCarImage/host_car_image_5492457586458-aef5-429a-8d1a-40418a3d40af.jpg20230116-40-1nvgf2f",
+                "https://zoomcar-assets.zoomcar.com/54922/HostCarImage/host_car_image_549224a0a927d-97cc-45e1-ba05-eae9102b111f.jpg20230116-62-h2owp6",
+                "https://zoomcar-assets.zoomcar.com/54923/HostCarImage/host_car_image_5492336cb2de0-314e-432b-88c0-9a9f3ac6e889.jpg20230116-32-tdwic4",
+                "https://zoomcar-assets.zoomcar.com/54925/HostCarImage/host_car_image_5492503dbde2b-dd60-4f09-a441-be3d86e0f328.jpg20230116-24-1gn7clf",
+                "https://zoomcar-assets.zoomcar.com/54926/HostCarImage/host_car_image_549269c8ab039-7360-46ff-b79b-645777857e01.jpg20230116-39-1ift0wh",
+                "https://zoomcar-assets.zoomcar.com/44097/HostCarImage/host_car_image_44097ba0dce21-1496-4c79-b223-ca30118cd768.jpg20230115-32-ea309v",
+                "https://zoomcar-assets.zoomcar.com/44099/HostCarImage/host_car_image_440990ec43726-b524-414d-839c-cae15cd04976.jpg20230115-32-py6y8m",
+                "https://zoomcar-assets.zoomcar.com/54927/HostCarImage/host_car_image_549270c819ade-211b-4a76-aa8b-5b77d404ee9c.jpg20230116-39-ojwta8",
+                "https://zoomcar-assets.zoomcar.com/54928/HostCarImage/host_car_image_54928b7099e5a-fb54-4664-b39b-f1945c41af7e.jpg20230116-24-t2osqq"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "5.00 (8) ",
+                "review_count": 3
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 6
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 141,
+            "car_id": -23719,
+            "name": "Celerio (Petrol)",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/388a2ee1a0dcc235b126c3f5cd204d560563a6a5.png?1663874258",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/388a2ee1a0dcc235b126c3f5cd204d560563a6a5.png?1663874258",
+            "location": {
+                "id": 553,
+                "location_id": 77018,
+                "lat": 18.44777,
+                "lng": 73.87552,
+                "distance": 1.2963497547688176,
+                "text": "2.2 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹132/hr",
+                "payable_amount": "₹81/hr",
+                "revenue": 10368,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹10,368 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹81 x 128 hours",
+                                "value": "₹10,368",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 81
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (7) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/25536/HostCarImage/host_car_image_25536c10c6815-c4c4-49ce-ba96-22f5ec4bba88.jpg20230109-66-o8xiks",
+                "https://zoomcar-assets.zoomcar.com/30687/HostCarImage/host_car_image_30687cc695e15-6ba9-4aa0-8b2a-926abe72e20f.jpg20230112-64-s4qi1f",
+                "https://zoomcar-assets.zoomcar.com/25534/HostCarImage/host_car_image_25534ca4a4434-f23d-4958-afd1-a7d39a5fd7d3.jpg20230109-32-1b3w63y",
+                "https://zoomcar-assets.zoomcar.com/25533/HostCarImage/host_car_image_255333b63684a-8380-435a-bb8b-d3e53d741365.jpg20230109-56-1rr007x",
+                "https://zoomcar-assets.zoomcar.com/30686/HostCarImage/host_car_image_306860ce25382-28ee-4e44-ab8d-a07508b3bcfc.jpg20230112-56-xlodpd",
+                "https://zoomcar-assets.zoomcar.com/41147/HostCarImage/host_car_image_411478ce59aa9-2995-4660-97f8-df84f4632e0f.jpg20230114-32-lh5tkz",
+                "https://zoomcar-assets.zoomcar.com/41148/HostCarImage/host_car_image_4114844f607e9-f72e-49e8-8a11-271eeca715d5.jpg20230114-40-qkk7a6",
+                "https://zoomcar-assets.zoomcar.com/41150/HostCarImage/host_car_image_41150cd6242b8-56cc-4123-99ec-d6dd9b76aa23.jpg20230122-48-1stt6pw",
+                "https://zoomcar-assets.zoomcar.com/45856/HostCarImage/host_car_image_45856d12504cb-2be5-40fd-b8eb-de5cbe95ace4.jpg20230115-48-1n3jymf",
+                "https://zoomcar-assets.zoomcar.com/45858/HostCarImage/host_car_image_45858888f1fa5-c6f3-49d0-9e2f-35440dc9bc17.jpg20230202-61-winuya",
+                "https://zoomcar-assets.zoomcar.com/25538/HostCarImage/host_car_image_2553889ed94ec-9838-4133-8720-e1941384e3a8.jpg20230116-32-1tlqsef",
+                "https://zoomcar-assets.zoomcar.com/30688/HostCarImage/host_car_image_306887d5b4a76-f24a-4a4c-a919-41983deef533.jpg20230116-32-1xqs02i",
+                "https://zoomcar-assets.zoomcar.com/29128/HostCarImage/host_car_image_29128b5537664-68a1-4732-8058-08b399783ffe.jpg20230116-24-19lr0kt",
+                "https://zoomcar-assets.zoomcar.com/29131/HostCarImage/host_car_image_29131d97aa96c-e1f3-4fa6-b7b2-4a22d8f6fd09.jpg20230111-32-esrcni",
+                "https://zoomcar-assets.zoomcar.com/41151/HostCarImage/host_car_image_41151871851cf-2176-46ba-b843-de243c8a92e3.jpg20230117-40-a9qlvk",
+                "https://zoomcar-assets.zoomcar.com/41152/HostCarImage/host_car_image_411528e61c9c5-f2dd-4e7a-836a-992fe820605d.jpg20230124-38-1m30jyx",
+                "https://zoomcar-assets.zoomcar.com/45857/HostCarImage/host_car_image_45857943aed30-6ac3-4cd0-acc8-155c2dc248bf.jpg20230202-52-1rvsb9i",
+                "https://zoomcar-assets.zoomcar.com/45859/HostCarImage/host_car_image_4585985e01413-3a16-4563-8efa-8b96e6e5ad41.jpg20230203-39-1m8rri7",
+                "https://zoomcar-assets.zoomcar.com/25537/HostCarImage/host_car_image_2553761834fac-e157-4135-9abf-ae13e89d1092.jpg20230203-66-19zrnz8"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (7) ",
+                "review_count": -1
+            },
+            "tag_run_id": 4,
+            "car_tags": [
+                {
+                    "id": 6,
+                    "colour": "YELLOW_SIX",
+                    "name": "New Car",
+                    "description": "New cars added to the zoomcar universe"
+                }
+            ],
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 7
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 147,
+            "car_id": 29657,
+            "name": "Wagon R",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+            "location": {
+                "id": 553,
+                "location_id": 41639,
+                "lat": 18.45568,
+                "lng": 73.8712,
+                "distance": 1.5741169237998878,
+                "text": "2.7 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹136/hr",
+                "payable_amount": "₹83/hr",
+                "revenue": 10624,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹10,624 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹83 x 128 hours",
+                                "value": "₹10,624",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 83
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.83 (14) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.83 (14) ",
+                "review_count": 1
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": false
+        },
+        "banner": false,
+        "id": 8
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 176,
+            "car_id": 26085,
+            "name": "Triber",
+            "brand": "Renault",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "location": {
+                "id": 553,
+                "location_id": 37661,
+                "lat": 18.45427,
+                "lng": 73.87058,
+                "distance": 1.627094656824249,
+                "text": "2.8 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹161/hr",
+                "payable_amount": "₹97/hr",
+                "revenue": 12416,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹12,416 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹97 x 128 hours",
+                                "value": "₹12,416",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 97
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "7 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.85 (25) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.85 (25) ",
+                "review_count": 1
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": false
+        },
+        "banner": false,
+        "id": 9
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 171,
+            "car_id": 14163,
+            "name": "Brezza (Diesel)",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/5d839e19374a62c0a16301bb5056aabe66ae5fa9.png?1663874240",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/5d839e19374a62c0a16301bb5056aabe66ae5fa9.png?1663874240",
+            "location": {
+                "id": 13477,
+                "location_id": 23626,
+                "lat": 18.43915,
+                "lng": 73.88756,
+                "distance": 1.6439335842327065,
+                "text": "2.8 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹147/hr",
+                "payable_amount": "₹89/hr",
+                "revenue": 11392,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹11,392 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹89 x 128 hours",
+                                "value": "₹11,392",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 89
+            },
+            "accessories": [
+                "Automatic",
+                "Diesel",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.88 (146) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/photographs/original/5d839e19374a62c0a16301bb5056aabe66ae5fa9.png?1663874240"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.88 (146) ",
+                "review_count": 9
+            },
+            "tag_run_id": 4,
+            "is_original_car_images": false
+        },
+        "banner": false,
+        "id": 10
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 138,
+            "car_id": 24722,
+            "name": "Dzire (Petrol)",
+            "brand": "Maruti",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+            "location": {
+                "id": 13477,
+                "location_id": 73248,
+                "lat": 18.43889,
+                "lng": 73.88756,
+                "distance": 1.6727015845516093,
+                "text": "2.8 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹178/hr",
+                "payable_amount": "₹107/hr",
+                "revenue": 13696,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹13,696 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹107 x 128 hours",
+                                "value": "₹13,696",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 107
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.72 (21) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/43009/HostCarImage/host_car_image_43009a8bbed60-8fdc-40f5-b918-af555621c248.jpg20230114-32-1ug41og",
+                "https://zoomcar-assets.zoomcar.com/43011/HostCarImage/host_car_image_43011d4633b7a-1fdd-4170-b367-eac5f6598166.jpg20230114-64-w3bfat",
+                "https://zoomcar-assets.zoomcar.com/43012/HostCarImage/host_car_image_43012138f3b2a-3a2d-4607-af73-bd02ba80f2e3.jpg20230114-61-otdnis",
+                "https://zoomcar-assets.zoomcar.com/43010/HostCarImage/host_car_image_430101102fe74-13d3-40b4-af2e-0ee9ce501fa3.jpg20230114-45-fr2j8l",
+                "https://zoomcar-assets.zoomcar.com/43014/HostCarImage/host_car_image_4301430d1a292-3bea-4171-897b-78fc153c2b1d.jpg20230114-40-1guj6f4",
+                "https://zoomcar-assets.zoomcar.com/43015/HostCarImage/host_car_image_430157f8c08a8-d771-45b5-af3f-866644471757.jpg20230114-45-14s7pr0",
+                "https://zoomcar-assets.zoomcar.com/43013/HostCarImage/host_car_image_430131f972395-7b4f-458a-bf03-32d245c54c45.jpg20230114-56-14md3j1",
+                "https://zoomcar-assets.zoomcar.com/43016/HostCarImage/host_car_image_43016a8648a6a-c52d-421c-acac-f8ba0d2a6c36.jpg20230114-56-1i7gpk0",
+                "https://zoomcar-assets.zoomcar.com/43017/HostCarImage/host_car_image_430170579bafc-3d9a-4c2d-8d4a-8191f1b4c479.jpg20230114-61-1sgbbqj",
+                "https://zoomcar-assets.zoomcar.com/43018/HostCarImage/host_car_image_43018ad7c34b9-fb37-4370-bd97-7e19d4cf3a52.jpg20230114-63-dadkdo",
+                "https://zoomcar-assets.zoomcar.com/62351/HostCarImage/host_car_image_62351bf339bc0-07b3-47e0-bec9-8f190d357f02.jpg20230117-40-llmy0m",
+                "https://zoomcar-assets.zoomcar.com/77703/HostCarImage/host_car_image_77703bc570fd6-961c-448a-a76b-26c75cd8ccaa.jpg20230120-48-by1xfc"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.72 (21) ",
+                "review_count": 2
+            },
+            "tag_run_id": 4,
+            "car_tags": [
+                {
+                    "id": 6,
+                    "colour": "YELLOW_SIX",
+                    "name": "New Car",
+                    "description": "New cars added to the zoomcar universe"
+                }
+            ],
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 11
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 137,
+            "car_id": 19323,
+            "name": "Baleno",
+            "brand": "Suzuki",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "location": {
+                "id": 44,
+                "location_id": 53847,
+                "lat": 18.47147,
+                "lng": 73.88982,
+                "distance": 1.9991630126910516,
+                "text": "3.4 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹167/hr",
+                "payable_amount": "₹101/hr",
+                "revenue": 12928,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹12,928 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹101 x 128 hours",
+                                "value": "₹12,928",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 101
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (96) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/7399/HostCarImage/open-uri20230130-15174-da210q6a37b053-fd26-44d3-88ed-b7c87ba84827",
+                "https://zoomcar-assets.zoomcar.com/109462/HostCarImage/host_car_image_1094629420c2bc-8256-4b4f-853d-d14c6b9f62a0.jpg20230205-26-3ikkqp",
+                "https://zoomcar-assets.zoomcar.com/109468/HostCarImage/host_car_image_1094689fda8d49-1893-4585-83e1-3883485d475c.jpg20230205-26-zfewp",
+                "https://zoomcar-assets.zoomcar.com/109463/HostCarImage/host_car_image_109463b364309c-2eec-45c5-8272-cf9e924d4fb2.jpg20230205-34-rr7kei",
+                "https://zoomcar-assets.zoomcar.com/109470/HostCarImage/host_car_image_109470985d5378-47cb-4e64-8345-e8c86483edd4.jpg20230205-26-14kbnph",
+                "https://zoomcar-assets.zoomcar.com/109461/HostCarImage/host_car_image_109461aa067f4b-1d09-4661-8252-78b64697ac55.jpg20230205-26-1ot9ivu",
+                "https://zoomcar-assets.zoomcar.com/109469/HostCarImage/host_car_image_109469bd75d9e9-8ac0-4038-bd64-25f36d2c1aa6.jpg20230205-26-mud5wk",
+                "https://zoomcar-assets.zoomcar.com/109464/HostCarImage/host_car_image_1094643d86d2b4-b765-4e29-a2ba-1cc1ee6dd59b.jpg20230205-34-p3hrdt",
+                "https://zoomcar-assets.zoomcar.com/109466/HostCarImage/host_car_image_1094668bdaedea-77d5-4e5d-b0fc-7f4e5d312de3.jpg20230205-35-ao2hs5",
+                "https://zoomcar-assets.zoomcar.com/109467/HostCarImage/host_car_image_109467280462c3-94bc-4d7a-9940-c49fc2a66aa5.jpg20230205-35-14zwnc9",
+                "https://zoomcar-assets.zoomcar.com/109465/HostCarImage/host_car_image_10946582ed15cf-d1f7-459f-b731-1df673196054.jpg20230205-49-gugc71",
+                "https://zoomcar-assets.zoomcar.com/15097/HostCarImage/open-uri20230130-16129-1yknkfa7f246bc0-dfd6-4ea5-9efc-1c08a19ce8f8",
+                "https://zoomcar-assets.zoomcar.com/109471/HostCarImage/host_car_image_109471eb3434ee-1bf8-4d7a-9ec4-3683174dbd9c.jpg20230205-35-u693r7"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.94 (96) ",
+                "review_count": 5
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 12
+    },
+    {
+        "type": "CAR_MP",
+        "car_data": {
+            "cargroup_id": 178,
+            "car_id": -7223,
+            "name": "Venue",
+            "brand": "Hyundai",
+            "url": "https://zoomcar-assets.zoomcar.com/photographs/original/7da6a84a3997f5d39a80653d488dbf9412f5dd3b.png?1663873214",
+            "url_large": "https://zoomcar-assets.zoomcar.com/photographs/original/7da6a84a3997f5d39a80653d488dbf9412f5dd3b.png?1663873214",
+            "location": {
+                "id": 13477,
+                "location_id": 55090,
+                "lat": 18.44265,
+                "lng": 73.90373,
+                "distance": 2.2475074745858237,
+                "text": "3.8 km away",
+                "hd_ids": [],
+                "terminal_ids": [],
+                "zoom_air_unvailable_reason": "LEAD_TIME"
+            },
+            "pricing": {
+                "id": "20000",
+                "flexi_name": "FLEX_1000",
+                "actual_amount": "₹202/hr",
+                "payable_amount": "₹122/hr",
+                "revenue": 15616,
+                "offer_id": null,
+                "discounted_info_text": null,
+                "fare_header": "₹15,616 total",
+                "fare_breakup": [
+                    {
+                        "fare_item": [
+                            {
+                                "header": "₹122 x 128 hours",
+                                "value": "₹15,616",
+                                "is_highlighted": "false",
+                                "striked_through": "false"
+                            }
+                        ]
+                    }
+                ],
+                "price_per_hour": 122
+            },
+            "accessories": [
+                "Manual",
+                "Petrol",
+                "5 Seats"
+            ],
+            "rating": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.40 (14) ",
+                "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+            },
+            "messages": [],
+            "image_urls": [
+                "https://zoomcar-assets.zoomcar.com/71497/HostCarImage/host_car_image_71497774229e0-ab69-4d39-95bf-2a1254212bfb.jpg20230202-56-181zrrj",
+                "https://zoomcar-assets.zoomcar.com/101531/HostCarImage/host_car_image_1015311eb4d8e0-5624-4473-96fb-d3354f10e2f7.jpg20230202-42-9eq5ie",
+                "https://zoomcar-assets.zoomcar.com/101533/HostCarImage/host_car_image_101533f3bcdfa2-ac92-4667-8267-dababc46abbf.jpg20230202-50-9dc3sx",
+                "https://zoomcar-assets.zoomcar.com/101532/HostCarImage/host_car_image_10153285f27c47-e3c2-42b5-b0ae-edc8fc2ee06f.jpg20230202-26-8i1o4q",
+                "https://zoomcar-assets.zoomcar.com/101534/HostCarImage/host_car_image_101534e0cc5525-f1c6-4a1b-bdd3-fea16f20ea71.jpg20230202-41-1ec2dh4",
+                "https://zoomcar-assets.zoomcar.com/101602/HostCarImage/host_car_image_101602a0816b4b-dccd-4ea5-8a8a-d7862025f7ac.jpg20230202-44-1wpvzoe",
+                "https://zoomcar-assets.zoomcar.com/101604/HostCarImage/host_car_image_10160409185ebe-f169-4f74-97e5-5ee20a6d5380.jpg20230202-83-77bvmf",
+                "https://zoomcar-assets.zoomcar.com/101605/HostCarImage/host_car_image_10160544d42304-8be7-4b1a-bd36-d046fe76d9a8.jpg20230202-37-ma1u78",
+                "https://zoomcar-assets.zoomcar.com/101606/HostCarImage/host_car_image_10160674ae6ba0-e312-4465-a2b8-8b6c592f02e8.jpg20230202-26-3jorss",
+                "https://zoomcar-assets.zoomcar.com/101603/HostCarImage/host_car_image_101603e066a3e9-2816-4a18-a39b-60a094d7183c.jpg20230202-34-o6dy19"
+            ],
+            "rating_v2": {
+                "icon": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533",
+                "text": "4.40 (14) ",
+                "review_count": -1
+            },
+            "tag_run_id": -1,
+            "is_original_car_images": true
+        },
+        "banner": false,
+        "id": 13
+    }
+]

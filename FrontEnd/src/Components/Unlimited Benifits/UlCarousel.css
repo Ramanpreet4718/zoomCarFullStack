@@ -1,0 +1,19 @@
+.UlCarousel {
+    padding: 2%;
+    gap: 20px;
+}
+
+.UlCarousel button {
+    border-radius: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin: 10px;
+    box-shadow: 0px 0px 8px #808080e6;
+}
+
+button span {
+    font-size: 1rem;
+}

@@ -1,0 +1,10 @@
+.DriveFree {
+    background: url('https://zoomcar-assets.zoomcar.com/images/original/25371b7b5084fc451b0c3ec9eda278f791188c69.png?1672044863');
+    background-size: cover;
+    padding: 3%;
+    height: 100vh;
+}
+
+h1 {
+    padding: 10px 0;
+}

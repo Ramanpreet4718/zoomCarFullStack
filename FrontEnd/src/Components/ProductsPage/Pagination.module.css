@@ -1,0 +1,23 @@
+.btn {
+  padding: 0 1rem;
+  border-color: transparent;
+  border-radius: 5px;
+}
+
+.btn i {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.currentNumber {
+  font-size: 30px;
+  padding: 0 2rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 0 2rem;
+}
+
+.pageContainer {
+  display: flex;
+  justify-content: center;
+}

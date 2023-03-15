@@ -1,4 +1,5 @@
 const Car = require("../db/Cars.model");
+var mongoose = require("mongoose");
 
 async function getData(query) {
   let allQueries;
@@ -25,14 +26,13 @@ async function getData(query) {
   //Sorting
 
   if (query.sort) {
+    console.log(query);
     const sort = query.sort;
     let order = 1;
 
     if (query.order == "desc") {
       order = -1;
     }
-
-    console.log(order);
 
     allQueries = allQueries.sort({ [sort]: `${order}` });
   }
@@ -48,9 +48,15 @@ async function getData(query) {
   data = await allQueries;
 
   return {
-    data: data,
+    carsData: data,
     count: totalElement,
   };
 }
 
-module.exports = { getData };
+async function getCarDataByID(id) {
+  const data = await Car.findById(id);
+
+  return data;
+}
+
+module.exports = { getData, getCarDataByID };

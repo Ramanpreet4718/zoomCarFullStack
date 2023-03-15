@@ -1,0 +1,277 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+}
+
+/* NavBar Component*/
+.nav {
+  background: black;
+}
+
+/* Hero Section */
+.hero_section {
+  background: url(https://www.zoomcar.com/img/hero-banner-web.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+}
+
+/* Slider Menu */
+.menu li {
+  padding: 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.round_trip {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  width: 50%;
+  padding: 5px;
+}
+
+.plane_trip {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 50%;
+  padding: 5px;
+}
+
+.find_cars_btn {
+  width: 100%;
+}
+
+.trip {
+  width: 100%;
+}
+
+.find-cars {
+  width: 35%;
+  margin: auto;
+}
+
+/* Carousel Section */
+.carouselContainer {
+  overflow: hidden;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.carouselItem {
+  flex: 0 0 calc(100% / 3);
+  padding: 20px;
+  text-align: center;
+}
+
+.carouselInner {
+  display: flex;
+  transition: all 0.5s ease;
+}
+
+/* Bottom Navbar  */
+.btn_nav {
+  background: #383838;
+}
+
+.btn_nav nav {
+  justify-content: space-between;
+}
+
+.btn_nav p {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+
+.ul-prev {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  z-index: 2;
+}
+
+.ul-next {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+}
+
+.UlCarousel {
+  position: relative;
+}
+
+/* 992px devices devices */
+@media (max-width: 992px) {
+  .carouselItem {
+    flex: 0 0 calc(100% / 2);
+  }
+}
+
+/* 768px devices devices */
+@media only screen and (max-width: 768px) {
+  .nav {
+    background: transparent;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+
+  .hero_section {
+    padding-top: 15% !important;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .signup {
+    display: none;
+  }
+
+  .hero_section h1 {
+    font-size: 20px !important;
+  }
+
+  .hero_section h3 {
+    font-size: 16px !important;
+  }
+
+  .hero_section_text {
+    width: 85% !important;
+  }
+
+  .become_host_txt {
+    display: none;
+  }
+
+  .host_btn {
+    padding: 10px !important;
+  }
+
+  .slider_content {
+    width: 80vw !important;
+  }
+
+  .empty_area {
+    width: 30vw !important;
+  }
+
+  .find-cars {
+    width: 80%;
+  }
+
+  .carouselItem {
+    flex: 0 0 100%;
+  }
+
+  .cars_scroll {
+    overflow: hidden;
+  }
+
+  .single_car {
+    width: 100vw;
+  }
+
+  .prev {
+    left: 10px !important;
+    padding: 5px !important;
+  }
+
+  .next {
+    right: 10px !important;
+    padding: 5px !important;
+  }
+
+  .prev span {
+    font-size: 2rem !important;
+  }
+
+  .next span {
+    font-size: 2rem !important;
+  }
+
+  .hamburger {
+    padding: 5px 10px;
+    background: black;
+    border-radius: 100%;
+  }
+}
+
+/* 480px devices */
+@media only screen and (max-width: 480px) {
+  .hero_section {
+    padding: 20px !important;
+    padding-top: 25% !important;
+  }
+
+  .hero_section h1 {
+    font-size: 14px !important;
+  }
+
+  .hero_section h3 {
+    font-size: 12px !important;
+  }
+
+  .hero_section_text {
+    width: 100% !important;
+  }
+
+  .round_trip {
+    padding: 5px 0;
+  }
+
+  .plane_trip {
+    padding: 5px 0;
+  }
+
+  .find-cars {
+    width: 100%;
+  }
+
+  .UlCarousel_item:nth-child(3) {
+    width: 300% !important;
+  }
+
+  .UlCarousel_item:nth-child(2) {
+    visibility: hidden;
+  }
+
+  .UlCarousel_item:nth-child(4) {
+    visibility: hidden;
+  }
+
+  .ul-prev {
+    top: 45%;
+    left: 10px;
+  }
+
+  .ul-next {
+    top: 45%;
+    right: 10px;
+  }
+
+  .btn_nav nav p {
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+
+  .btn_nav nav {
+    gap: 10px;
+  }
+}
