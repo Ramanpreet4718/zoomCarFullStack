@@ -2,38 +2,55 @@ import { useState, useRef, useEffect, useContext } from "react";
 import { MainContext } from "../Context/MainContextProvider";
 import { useNavigate } from "react-router-dom";
 import Target from "ol/events/Target";
-function OTP({ toggle, setToggle, OTP }) {
 
+function OTP({ toggle, setToggle, OTP, userName, phone }) {
+  console.log(userName, phone);
   const [otp, setOtp] = useState("");
-  
+  let token = localStorage.getItem("token") || "";
 
   let { isAuth, setIsAuth } = useContext(MainContext);
   const navigate = useNavigate();
-  // navigate("/");
-  
-  const handleOTP =(e)=>{
-      if(otp===OTP){
+
+  const postUser = async () => {
+    const url = "http://localhost:3001/users/login";
+
+    const body = JSON.stringify({
+      name: userName,
+      phone: phone,
+    });
+    const obj = {
+      method: "POST",
+      headers: {
+        Accept: "application.json",
+        "Content-Type": "application/json",
+      },
+      body: body,
+    };
+
+    let fetchData = await fetch(url, obj);
+    let data = await fetchData.json();
+    localStorage.setItem("token", data.token);
+  };
+
+  const handleOTP = (e) => {
+    if (otp === OTP) {
+      postUser().then(() => {
         setIsAuth(true);
         navigate(-1);
-      }
-      else{
-        alert("Please Enter correct OTP");
-      }
-
-  }
-
+      });
+    } else {
+      alert("Please Enter correct OTP");
+    }
+  };
 
   return (
     <div>
-    
       <div
         className="EmailPopUpcontainer"
-
         style={{
           display: toggle ? "block" : "none",
         }} //
       >
-         
         <div
           className="backArrow"
           onClick={() => {
@@ -57,7 +74,8 @@ function OTP({ toggle, setToggle, OTP }) {
         <div className="Enter-email-id">Enter 6-digit OTP</div>
         <div className="otp-input">
           <div className="input-box-email">
-            <input className="enter-otp"
+            <input
+              className="enter-otp"
               style={{
                 width: "40%",
                 height: "100%",
@@ -67,20 +85,23 @@ function OTP({ toggle, setToggle, OTP }) {
                 fontSize: "15px",
               }}
               value={otp}
-              onInput={(e)=>{
-                  setOtp(e.target.value)
-                    let otplength =  document.querySelector(".enter-otp").value;
-    
-                    if(otplength.length===6){
-                      document.querySelector(".submit-button-otp").style.background="green";
-                      document.querySelector(".otp-input").style.border="2px solid green";
-                      
-                    }
-                    else{
-                      document.querySelector(".submit-button-otp").style.background="#e0e0e0";
-                      document.querySelector(".otp-input").style.border="1px solid #e0e0e0";
-                    }
-    
+              onInput={(e) => {
+                setOtp(e.target.value);
+                let otplength = document.querySelector(".enter-otp").value;
+
+                if (otplength.length === 6) {
+                  document.querySelector(
+                    ".submit-button-otp"
+                  ).style.background = "green";
+                  document.querySelector(".otp-input").style.border =
+                    "2px solid green";
+                } else {
+                  document.querySelector(
+                    ".submit-button-otp"
+                  ).style.background = "#e0e0e0";
+                  document.querySelector(".otp-input").style.border =
+                    "1px solid #e0e0e0";
+                }
               }}
               type="password"
               placeholder="OTP"
@@ -89,10 +110,9 @@ function OTP({ toggle, setToggle, OTP }) {
           </div>
         </div>
         <div className="submit-login-with-email">
-          <button 
-          className="submit-button-otp"
+          <button
+            className="submit-button-otp"
             style={{
-            
               padding: "15px 200px",
               fontWeight: "bold",
               boxShadow:

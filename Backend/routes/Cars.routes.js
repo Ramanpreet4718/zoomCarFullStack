@@ -24,7 +24,7 @@ carsRouter.get("/:id", async (req, res) => {
     const { id } = req.params;
     const data = (await getCarDataByID(id)) || [];
     res.send({
-      data,
+      car_data: data,
     });
   } catch (error) {
     console.log(error);

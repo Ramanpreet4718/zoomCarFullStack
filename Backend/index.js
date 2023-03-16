@@ -11,9 +11,9 @@ app.use(
     origin: "*",
   })
 );
+app.use(express.json());
 app.use("/cars", carsRouter);
 app.use("/users", userRoutes);
-app.use(express.json());
 app.use(morgan("tiny"));
 
 connectDatabase().then(() => {

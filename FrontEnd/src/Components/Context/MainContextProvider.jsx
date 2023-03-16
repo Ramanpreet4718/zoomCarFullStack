@@ -3,7 +3,7 @@ import { createContext, useState } from "react";
 export let MainContext = createContext();
 
 export default function MainContextProvider({ children }) {
-  let [isAuth, setIsAuth] = useState(true);
+  let [isAuth, setIsAuth] = useState(false);
   let [isLoading, setIsLoading] = useState(true);
   let [request, setRequest] = useState({ sort: "", page: 1 });
   let [totalPages, setTotalPages] = useState(0);

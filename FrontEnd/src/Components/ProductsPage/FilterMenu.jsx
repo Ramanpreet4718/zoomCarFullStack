@@ -13,7 +13,7 @@ export default function FilterMenu() {
         <p className="fs-5 fw-bold">Sort & Filter</p>
         <p
           onClick={() => {
-            setRequest({ sort: "", page: 1, totalPage: 0 });
+            setRequest({ sort: "", page: 1 });
           }}
           className="fw-bold"
           style={{ color: "#10a310", cursor: "pointer" }}
@@ -39,7 +39,11 @@ export default function FilterMenu() {
           <div
             className={`border p-2 border-secondary rounded text-center ${FilterCSS.Pevent}`}
             onClick={(e) => {
-              setRequest({ ...request, sort: "price_per_hour", order: "asc" });
+              setRequest({
+                ...request,
+                sort: "pricing.price_per_hour",
+                order: "asc",
+              });
             }}
           >
             <i class="bi bi-arrow-down-circle"></i>
@@ -48,7 +52,11 @@ export default function FilterMenu() {
           <div
             className={`border p-2 border-secondary rounded text-center ${FilterCSS.Pevent}`}
             onClick={(e) => {
-              setRequest({ ...request, sort: "price_per_hour", order: "desc" });
+              setRequest({
+                ...request,
+                sort: "pricing.price_per_hour",
+                order: "desc",
+              });
             }}
           >
             <i class="bi bi-arrow-up-circle"></i>

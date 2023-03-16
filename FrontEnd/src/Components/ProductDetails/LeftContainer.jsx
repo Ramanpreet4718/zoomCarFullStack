@@ -14,7 +14,9 @@ export default function LeftContainer({ data }) {
     setAddress(data.features[0].properties.formatted);
   }
 
-  let { url, name, accessories, brand, rating, pricing, location } = data;
+  let { image_url, name, accessories, brand, rating, pricing, location } = data;
+
+  console.log(image_url, name, accessories, brand, rating, pricing, location);
 
   useEffect(() => {
     setTime(JSON.parse(localStorage.getItem("timeLS")));
@@ -26,7 +28,7 @@ export default function LeftContainer({ data }) {
   return (
     <>
       <div className={ProductDetailsCSS.imageDiv}>
-        <img src={url} alt="Car image" />
+        <img src={image_url} alt="Car image" />
       </div>
 
       <div className={ProductDetailsCSS.carInfoDiv}>

@@ -3,6 +3,7 @@ const config = require("../config/config");
 const jwt = require("jsonwebtoken");
 
 function generateAuthToken(user) {
+  console.log(user._id);
   let payload = {
     id: user._id,
     name: user.name,
@@ -19,13 +20,14 @@ function verifyToken(token) {
 }
 
 async function handleLogIn(name, phone) {
-  let user = User.findOne({ name: name, phone: phone });
+  console.log(name, phone);
+  let user = await User.findOne({ name: name, phone: phone });
   if (user) {
     let token = generateAuthToken(user);
     return { token, message: "Logging in Successfully" };
   } else {
-    await User.create({ name, phone });
-    let token = generateAuthToken(user);
+    let new_User = await User.create({ name, phone });
+    let token = generateAuthToken(new_User);
     return { token, message: "User Created and Logging in Successfully" };
   }
 }
