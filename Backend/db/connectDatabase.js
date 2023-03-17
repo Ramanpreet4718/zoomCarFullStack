@@ -1,12 +1,11 @@
 const mongoose = require("mongoose");
+const config = require("../config/config");
 
 mongoose.set("strictQuery", true);
 
 async function connectDatabase() {
   try {
-    await mongoose.connect(
-      "mongodb+srv://ramanp4718:DlOZ5QSeW69nn4M7@cluster0.td4mz23.mongodb.net/zoomcarapi"
-    );
+    await mongoose.connect(config.MONGODB_URL);
     console.log("Connected to database");
   } catch (error) {
     console.log(error);

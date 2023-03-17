@@ -1,5 +1,8 @@
+require("dotenv").config();
+
 const config = {
-  JWT_SECRET: "109!)@mmhuyJJHUGFAS___aaf}]penhiebeg",
+  JWT_SECRET: process.env.JWT_SECRET,
+  MONGODB_URL: process.env.MONGODB_URL,
 };
 
 module.exports = config;

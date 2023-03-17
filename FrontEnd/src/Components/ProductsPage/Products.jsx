@@ -39,6 +39,7 @@ export default function Products() {
     getData(request).then((data) => {
       setProductData(data);
     });
+    console.log("product useEffect");
   }, [request]);
 
   return (

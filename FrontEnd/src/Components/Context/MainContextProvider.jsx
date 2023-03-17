@@ -9,18 +9,23 @@ export default function MainContextProvider({ children }) {
   let [totalPages, setTotalPages] = useState(0);
   let [total, setTotal] = useState(0);
   let [price, setPrice] = useState(0);
+  let [sortIDName, setSortIDName] = useState("");
+  let [filterIDName, setfilterIDName] = useState({
+    Transmission: "",
+    Seats: "",
+    FuelType: "",
+    Ratings: "",
+  });
 
   function handleTotalPages(dataCount) {
     let totalPage = dataCount / 10;
     totalPage = Math.ceil(totalPage);
-    console.log(totalPage);
     setTotalPages(totalPage);
   }
 
   async function getData(request) {
     try {
       setIsLoading(true);
-      console.log(request);
       let finalRequest;
 
       let urlRequest = { ...request };
@@ -31,8 +36,6 @@ export default function MainContextProvider({ children }) {
         delete urlRequest[element];
       });
 
-      console.log(urlRequest);
-
       let url = "http://localhost:3001/cars?";
 
       Object.keys(urlRequest).forEach((element) => {
@@ -42,8 +45,6 @@ export default function MainContextProvider({ children }) {
       });
 
       url = url.slice(0, url.length - 1);
-
-      console.log(url);
 
       let fetchData = await fetch(url);
       let data = await fetchData.json();
@@ -79,6 +80,10 @@ export default function MainContextProvider({ children }) {
         price,
         setPrice,
         getData,
+        sortIDName,
+        setSortIDName,
+        filterIDName,
+        setfilterIDName,
       }}
     >
       {children}
